@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @mohammedmahdiali
-- 👀 I’m interested in #data_science
-- 🌱 I’m currently learning #data_analysis
+# Hi, I’m Mohammed Mahdi
 
-<!---
-mohammedmahdiali/mohammedmahdiali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A data analyst who loves everything data. Excited to help companies succeed. Owned a small business which was successfully built up using my skills as a data analyst. I have a vast amount of technical skills that can be used to help any company grow.
